@@ -1,5 +1,5 @@
 # Shamin Shaikh
-Email | LinkedIn | +1 (447)-902-7000
+shaikh8@illinois.edu 
 
 ## 👋 About Me
 I am a Master's student in Business Analytics at the GIES College of Business, University of Illinois Urbana-Champaign, with a strong foundation in finance and data analytics. My professional background as a Senior Analyst at Intellimation.ai and as a Financial Analyst Intern at Rupee Catalyst has equipped me with hands-on experience in data-driven decision-making, financial analysis, and automation.
