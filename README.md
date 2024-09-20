@@ -45,9 +45,9 @@ Investment Pattern of Women in South Mumbai
 Led surveys and interviews to understand women's unique investment behaviors, objectives, and risk appetites.
 
 ## 🛠️ Technical Skills
-Languages: Python, R, SQL, SAS, HTML, CSS
-Tools: Tableau, Power BI, MS Office
-Technologies/Frameworks: MongoDB, AWS, Knime, Mathematica
+- Languages: Python, R, SQL, SAS, HTML, CSS
+- Tools: Tableau, Power BI, MS Office
+- Technologies/Frameworks: MongoDB, AWS, Knime, Mathematica
 
 ## 🏅 Extracurricular Activities
 Head Student Co-ordinator | The Sports Council, H.R. College | 2019-2020
